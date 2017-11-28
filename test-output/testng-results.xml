@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14145" started-at="2017-10-28T04:29:52Z" finished-at="2017-10-28T04:30:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14145" started-at="2017-10-28T04:29:52Z" finished-at="2017-10-28T04:30:06Z">
+      <class name="practice_session.Title_DragDrop_MouseOver">
+        <test-method status="PASS" signature="beforetest()[pri:0, instance:practice_session.Title_DragDrop_MouseOver@7ac7a4e4]" name="beforetest" is-config="true" duration-ms="4060" started-at="2017-10-28T09:59:52Z" finished-at="2017-10-28T09:59:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method status="PASS" signature="dragdrop()[pri:0, instance:practice_session.Title_DragDrop_MouseOver@7ac7a4e4]" name="dragdrop" duration-ms="9307" started-at="2017-10-28T09:59:56Z" finished-at="2017-10-28T10:00:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragdrop -->
+        <test-method status="PASS" signature="aftertest()[pri:0, instance:practice_session.Title_DragDrop_MouseOver@7ac7a4e4]" name="aftertest" is-config="true" duration-ms="742" started-at="2017-10-28T10:00:06Z" finished-at="2017-10-28T10:00:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- practice_session.Title_DragDrop_MouseOver -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
